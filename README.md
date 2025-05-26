@@ -74,3 +74,4 @@ Pick one team member to share their screen while going through the following ste
     - `git merge main`
 
 Repeat [Workflow for Adding a Feature](#workflow-for-adding-a-feature) now with the other team member adding a feature. Continue alternating [Workflow for Adding a Feature](#workflow-for-adding-a-feature) with one team member adding a feature and then the other team member adding a feature.
+Wenjing Wei is practicing some GitHub operations.
